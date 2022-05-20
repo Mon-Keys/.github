@@ -1,12 +1,9 @@
-## Hi there 👋
+# MonKeys 🐒🐒🐒🐒🐒🐒🐒🐒🐒
 
-<!--
+<img src="https://c.tenor.com/BbeN4otDs4cAAAAd/dying-dead.gif" width="200px">
 
-**Here are some ideas to get you started:**
+<img src="https://c.tenor.com/dFucO4PxEk4AAAAC/monkey-dramatic.gif" width="200px">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="https://lastfm.freetls.fastly.net/i/u/500x500/a04ba8c18bbcfff83bcf44ee43645fbc.jpg" width="200px">
+
+<img src="https://c.tenor.com/wsChytFfrS4AAAAM/monki-flip-monkey.gif" width="200px">
